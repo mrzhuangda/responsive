@@ -1735,8 +1735,8 @@ body { /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
 	-moz-animation-name: bounceInUp;
 	-o-animation-name: bounceInUp;
 	animation-name: bounceInUp;
-             -webkit-animation-delay: 1s;
-                      animation-delay:1s;
+             -webkit-animation-delay: 2s;
+                      animation-delay:2s;
 }
 @-webkit-keyframes bounceInDown {
 	0% {
@@ -1909,8 +1909,8 @@ body { /* Addresses a small issue in webkit: http://bit.ly/NEdoDq */
 	-moz-animation-name: bounceInLeft;
 	-o-animation-name: bounceInLeft;
 	animation-name: bounceInLeft;
-             -webkit-animation-delay: 1s;
-                      animation-delay:1s;
+             -webkit-animation-delay: 2s;
+                      animation-delay:2s;
 }
 @-webkit-keyframes bounceInRight {
 	0% {
